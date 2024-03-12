@@ -1,0 +1,38 @@
+[
+  {
+    "BookID": "000",
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "PublicationYear": "1960"
+  },
+  {
+    "BookID": "0002",
+    "Title": "1984",
+    "Author": "George Orwell",
+    "PublicationYear": "1949"
+  },
+  {
+    "BookID": "0003",
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "PublicationYear": "1925"
+  },
+  {
+    "BookID": "0004",
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "PublicationYear": "1813"
+  },
+  {
+    "BookID": "0005",
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "PublicationYear": "1951"
+  },
+  {
+    "BookID": "0006",
+    "Title": "Test Title",
+    "Author": "Test Author",
+    "PublicationYear": "1995"
+  }
+]
