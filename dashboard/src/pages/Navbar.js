@@ -10,7 +10,7 @@ function Navbar() {
             <div className="contents">
 
 
-                 <LocalLibraryIcon />Your Local Library 
+                 <LocalLibraryIcon />Bookly
 
                 <Link to="/">
                     HOME
